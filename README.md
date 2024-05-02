@@ -6,7 +6,7 @@ This application allows users to answer questions, add new questions, and also d
 
 ### App Walk-though
 
-<[img src="https://github.com/Presendieu/Flashcard_/blob/main/GIF-2024-05-02-19-08-22.gif" width=200><br>
+<img src="GIF-2024-05-02-19-08-22.gif" width=200><br>
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
